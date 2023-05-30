@@ -7,4 +7,5 @@ def say_something(to_say:str) -> None :
 
 
 if __name__=='__main__':
-    say_something('hello world')
+    for say in ['hello world', 'hello DIA', 'hello GIT']:
+        say_something(say)
