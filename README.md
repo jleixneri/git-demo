@@ -2,7 +2,7 @@
 
 Demo Repository, zum Kennenlernen von GIT. Test-Brances können gerne erstellt werden.
 
-
+**GIT Cheatsheet**: https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 
 ## Neues Repository anlegen
 
