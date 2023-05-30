@@ -51,3 +51,11 @@ code .
 geänderte Dateien können ausgewählt und committed werden.
 
 ![2023-05-30 10_31_32-Clipboard](./assets/2023-05-30 10_31_32-Clipboard.png)
+
+Synchronisieren vom lokalen Repository und dem Remote Repository
+
+![2023-05-30 10_36_17-Clipboard](./assets/2023-05-30 10_36_17-Clipboard.png)
+
+Vor dem Committen sollte man sich die Änderungen im Code anschauen. Dafür klickt man auf das File und kann im `Working Tree` die Änderungen zum vorherigen File begutachten.
+
+![2023-05-30 10_40_12-Clipboard](./assets/2023-05-30 10_40_12-Clipboard.png)
