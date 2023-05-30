@@ -4,6 +4,15 @@ Demo Repository, zum Kennenlernen von GIT. Test-Brances können gerne erstellt w
 
 **GIT Cheatsheet**: https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 
+Verwendung von hello_world.py:
+
+```bash
+pip install -r .\requirements.txt
+python .\hello_world.py 
+```
+
+
+
 ## Neues Repository anlegen
 
 Das Repository muss in der richtigen Gruppe angelegt werden. Die Gruppe MetalEngineering > DIA hat für jede BU eine separate Subgruppe.
