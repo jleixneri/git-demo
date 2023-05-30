@@ -1,13 +1,16 @@
 """Demo Python File"""
 import os
+import logging
 from dotenv import load_dotenv
 
+
 def say_something(to_say:str) -> None :
-    """print variable to_say"""
-    print(to_say)
+    """log variable to_say"""
+    logging.info(to_say)
 
 
 if __name__=='__main__':
+    logging.basicConfig(encoding='utf-8', level=logging.INFO) #Console Loglevel
     load_dotenv() # Environment Variablen werden geladen
 
     for say in ['hello world', 'hello DIA', 'hello GIT']:
