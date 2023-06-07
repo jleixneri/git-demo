@@ -13,7 +13,7 @@ if __name__=='__main__':
     logging.basicConfig(encoding='utf-8', level=logging.INFO) #Console Loglevel
     load_dotenv() # Environment Variablen werden geladen
 
-    for say in ['hello world', 'hello DIA', 'hello GIT']:
+    for say in ['hello world', 'hello DIA .:)', 'hello GIT']:
         say_something(say)
 
     if os.environ.get('USER'):
