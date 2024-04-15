@@ -10,7 +10,7 @@ def say_something(to_say:str) -> None :
 
 
 if __name__=='__main__':
-    logging.basicConfig(encoding='utf-8', level=logging.INFO) #Console Loglevel
+    logging.basicConfig(level=logging.INFO) #Console Loglevel
     load_dotenv() # Environment Variablen werden geladen
 
     for say in ['hello world', 'hello DIA .:)', 'hello GIT']:
